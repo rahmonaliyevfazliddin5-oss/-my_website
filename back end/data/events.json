@@ -1,0 +1,30 @@
+[
+  {
+    "id": "90849a7d-4ff9-43bc-9804-54f3ee5eec03",
+    "name": "Texnologiya sammiti",
+    "date": "2026-06-15",
+    "desc": "Sunʼiy intellekt",
+    "plan": "Pro",
+    "traffic": "50K+",
+    "user": "Admin"
+  },
+  {
+    "id": "7b240ac5-b0e0-4b70-ad5a-537808477b9a",
+    "name": "Marketing konferensiyasi",
+    "date": "2026-05-22",
+    "desc": "Raqamli strategiya",
+    "plan": "Medium",
+    "traffic": "20K",
+    "user": "Admin"
+  },
+  {
+    "id": "26f31d23-aa6a-496e-9e9e-15b49a194f32",
+    "name": "hackathon",
+    "date": "2026-04-07",
+    "desc": "dwqdseqw",
+    "plan": "Pro",
+    "traffic": "50K+",
+    "user": "Admin",
+    "createdAt": "2026-04-21T01:29:11.390634"
+  }
+]
